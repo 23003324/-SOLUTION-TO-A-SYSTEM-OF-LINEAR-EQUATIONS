@@ -28,8 +28,8 @@ print(le)
 
 
 ## Output:
-
 ![Alt text](<Screenshot 2023-12-12 180937.png>)
+
 
 
 
